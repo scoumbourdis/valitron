@@ -1,5 +1,5 @@
 {
-    "name": "vlucas/valitron",
+    "name": "scoumbourdis/valitron",
     "type": "library",
     "description": "Simple, elegant, stand-alone validation library with NO dependencies",
     "keywords": ["validation", "validator", "valid"],
@@ -10,6 +10,11 @@
             "name": "Vance Lucas",
             "email": "vance@vancelucas.com",
             "homepage": "https://www.vancelucas.com"
+        },
+        {
+            "name": "John Skoubourdis",
+            "email": "scoumbourdisj@gmail.com",
+            "homepage": "https://www.web-and-development.com/"
         }
     ],
     "require": {
